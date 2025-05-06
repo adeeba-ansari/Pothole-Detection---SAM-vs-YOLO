@@ -13,6 +13,15 @@ Object Detection - : https://app.roboflow.com/qcdgrp19/potholedetection-6fvuv/1
 Object Segmentation - : https://app.roboflow.com/qcdgrp19/pothole-segmentation-cxool/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
 
 ################################################################################################
+Manikant dataset 
+Object Detection - :https://universe.roboflow.com/qcdgrp19/pothole-manikant/dataset/1
+Object Segmentation - : https://app.roboflow.com/qcdgrp19/pothole-segmentation-cxool/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
+
+Yolo results
+v8 70 epochs object detection multiple classes-:https://drive.google.com/drive/u/1/folders/1Rs8MH90TmXkEOFPXY-PX2_HNIOFWbCbf 
+https://universe.roboflow.com/qcdgrp19/pothole-manikant/dataset/1
+
+################################################################################################
 Results from YOLO ,sam ,sam2 models
 
 
